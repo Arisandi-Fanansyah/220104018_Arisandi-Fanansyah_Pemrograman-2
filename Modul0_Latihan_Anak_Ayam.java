@@ -2,7 +2,7 @@ package latihan;
 
 import java.util.Scanner;
 
-public class tekotek_for {
+public class Anak_Ayam {
     public static void main(String[] args) {
         int anak;
         int i;
