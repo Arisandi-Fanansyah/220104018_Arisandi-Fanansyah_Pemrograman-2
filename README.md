@@ -1,4 +1,4 @@
-# 220104018_Arisandi-Fanansyah_Pemrograman-2
+# 20104018_Arisandi-Fanansyah_Pemrograman-2
 
 # Daftar isi
 
