@@ -35,9 +35,9 @@ this.nilai=nilai;
 
 # PRAKTIKUM
 
-Pada percobaan ke 3 timbul pesan kesalahan karena pada class [A_]() itu kurang perintah "Protected", dan ketika ditambahkan perintah tersebut maka proses berjalan dengan baik.
+Pada percobaan ke 3 timbul pesan kesalahan karena pada class [A_](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul6/Percobaan/A_.java) itu kurang perintah "Protected", dan ketika ditambahkan perintah tersebut maka proses berjalan dengan baik.
 
-Dan pada percobaan ke 4 terjadi error pada class [Child](), karena untuk pemanggilan konstruktor [Parent]() memerlukan panggilan pada baris pertama pada konstruktor subclass
+Dan pada percobaan ke 4 terjadi error pada class [Child](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul6/Percobaan/child.java), karena untuk pemanggilan konstruktor [Parent](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul6/Percobaan/parent.java) memerlukan panggilan pada baris pertama pada konstruktor subclass
 
 # KESIMPULAN
 
