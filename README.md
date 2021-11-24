@@ -56,6 +56,17 @@ Method yang terkena override (overiden method) diharuskan tidak boleh mempunyai 
 
 # PRAKTIKUM
 
+[Penguin](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul7/Percobaan/Penguin.java)
+
+[Overriding](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul7/Percobaan/Overriding.java)
+
+[Main](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul7/Percobaan/Main.java)
+
+[Overload](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul7/Percobaan/Overload.java)
+
+[Mahasiswa](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul7/Percobaan/Mahasiswa.java)
+
+[Burung](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul7/Percobaan/Burung.java)
 
 # KESIMPULAN
 
