@@ -1,6 +1,6 @@
 # 20104018_Arisandi-Fanansyah_Pemrograman-2
 
-# Modul 5 : KONSEP INHERITANCE
+# Modul 6 : KONSEP INHERITANCE
 
 # Dasar Teori
 
