@@ -100,9 +100,22 @@ if (peg instanceof Manajer) { Manajer man = (Manajer) peg;
   
 # PRAKTIKUM
 
+Mengapa pada class [Pegawai](), [Gaji](), dan [Virtual_Demo]() hasil akhir pada saat proses running seperti dibawah ini?
+
+```
+Menyusun Pegawai
+Memanggil mailCheck Berdasarkan Referensi Gaji --
+Memeriksa kelas gaji dalam surat
+Surat tertuju untuk Wahyu dengan gaji 5000.0
+
+Memanggil mailCheck Berdasarkan Referensi Pegawai--
+Memeriksa kelas gaji dalam surat
+Surat tertuju untuk Ini nama dengan gaji 2500.0
+```
 
 ### Jawaban
 
+Hasil analisis yang saya dapat adalah
 
 # KESIMPULAN
 
