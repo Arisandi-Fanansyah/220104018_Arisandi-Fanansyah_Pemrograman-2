@@ -100,7 +100,7 @@ if (peg instanceof Manajer) { Manajer man = (Manajer) peg;
   
 # PRAKTIKUM
 
-Mengapa pada class [Pegawai](), [Gaji](), dan [Virtual_Demo]() hasil akhir pada saat proses running seperti dibawah ini?
+Mengapa pada class [Pegawai](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul8/Percobaan/Pegawai.java), [Gaji](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul8/Percobaan/Gaji.java), dan [Virtual_Demo](https://github.com/Arisandi-Fanansyah/20104018_Arisandi-Fanansyah_Pemrograman-2/blob/Modul8/Percobaan/VirtualDemo.java) hasil akhir pada saat proses running seperti dibawah ini?
 
 ```
 Menyusun Pegawai
@@ -115,7 +115,9 @@ Surat tertuju untuk Ini nama dengan gaji 2500.0
 
 ### Jawaban
 
-Hasil analisis yang saya dapat adalah
+Hasil analisis yang saya dapat adalah walaupun semua isi method sama, namun pada akhirnya implementasi didunia nyata itu berbeda-beda.
 
 # KESIMPULAN
 
+Polymorphism (polimorfisme) adalah kemampuan untuk mempunyai beberapa bentuk class yang berbeda. Polimorfisme ini terjadi pada saat suatu obyek bertipe parent class, akan tetapi pemanggilan constructornya melalui subclass. Virtual Method Invocation (VMI) bisa terjadi jika terjadi polimorfisme dan overriding. Pada saat obyek yang sudah dibuat tersebut memanggil overridden method pada parent class, kompiler Java akan melakukan invocation (pemanggilan) terhadap overriding method pada subclass, dimana yang seharusnya dipanggil adalah overridden method.
+  Polymorphic arguments adalah tipe suatu parameter yang menerima suatu nilai yang bertipe subclass-nya. Pernyataan instanceof sangat berguna untuk mengetahui tipe asal dari suatu polymorphic arguments. Seringkali pemakaian instanceof diikuti dengan casting object dari tipe parameter ke tipe asal. Misalkan saja program kita sebelumnya. Pada saat kita sudah melakukan instanceof dari tipe Manajer, kita dapat melakukan casting object ke tipe asalnya, yaitu Manajer.
